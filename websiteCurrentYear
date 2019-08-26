@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Dynamically Display Current Year</title>
+       <!--
+         Filename: websiteCurrentYear.html
+         Author:   Lisa Caron
+         Date:     8/26/19
+      -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+   </head>
+   <body>   
+        <footer>
+            <p>Your Company, Inc.&#8226; (123) 456-7890</p>
+            <p>&copy; <span id="copyright">20XX</span> Your Company, Inc. All rights reserved.</p>
+        </footer>
+        <script src="websiteCurrentYear.js"></script>
+   </body>
+</html>
